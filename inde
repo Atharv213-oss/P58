@@ -1,0 +1,14 @@
+<html>
+  <head> <title> P57 HobbiWebsiteOKOK</title>
+    </head>
+  <body>
+     <ul class="menu">
+       <li class="link">About</li>
+        <li class="link">My favourite books</li>
+        <li class="link">My Work</li>
+        <li class="link">Inspiration</li>
+        <li class="link">Contact</li>
+       <ul>
+    <section id="Welcome"><h1> I like Reading </h1> </section>
+      <section id="bio"> <div> </div>
+        <p>I am currently 9 years old and my hobby is reading books. Reading gives an enjoyment that no other activity could give. It makes the mind healthier and it makes people intelligent. You will feel wonderful after reading a good, new book as it will have given you an oppurtunity to immerse yourself in the story. Lastly it makes you successful in life.
